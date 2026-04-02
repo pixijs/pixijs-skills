@@ -1,0 +1,6 @@
+{
+  "name": "pixijs-skills",
+  "description": "Official PixiJS skills for Claude, Cursor, and other AI agents — Application setup, scene graph, sprites, graphics, text, filters, custom rendering, performance, and v7-to-v8 migration",
+  "version": "1.0.0",
+  "skills": "./skills/"
+}

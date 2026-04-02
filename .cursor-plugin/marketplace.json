@@ -1,0 +1,13 @@
+{
+  "name": "pixijs-skills",
+  "owner": {
+    "name": "PixiJS"
+  },
+  "plugins": [
+    {
+      "name": "pixijs-skills",
+      "source": "./",
+      "description": "Official PixiJS skills covering Application, scene graph, sprites, graphics, text, filters, mesh, custom rendering, performance, and v7-to-v8 migration"
+    }
+  ]
+}

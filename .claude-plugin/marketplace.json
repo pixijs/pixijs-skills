@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "pixijs-skills",
+  "description": "Official PixiJS skills for Claude, Cursor, and other AI agents — Application setup, scene graph, sprites, graphics, text, filters, custom rendering, performance, and v7-to-v8 migration",
+  "owner": {
+    "name": "PixiJS"
+  },
+  "plugins": [
+    {
+      "name": "pixijs-skills",
+      "description": "Official PixiJS skills covering Application, scene graph, sprites, graphics, text, filters, mesh, custom rendering, performance, and v7-to-v8 migration",
+      "author": {
+        "name": "PixiJS"
+      },
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

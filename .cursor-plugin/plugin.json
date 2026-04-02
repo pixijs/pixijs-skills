@@ -1,0 +1,23 @@
+{
+  "name": "pixijs-skills",
+  "version": "1.0.0",
+  "description": "Official PixiJS skills for Claude, Cursor, and other AI agents — Application setup, scene graph, sprites, graphics, text, filters, custom rendering, performance, and v7-to-v8 migration",
+  "author": {
+    "name": "PixiJS",
+    "url": "https://pixijs.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "pixijs",
+    "pixi",
+    "2d rendering",
+    "webgl",
+    "webgpu",
+    "canvas",
+    "game graphics",
+    "sprite",
+    "scene graph"
+  ],
+  "logo": "./assets/pixijs-logo.svg",
+  "skills": ["skills"]
+}
