@@ -16,4 +16,4 @@ When writing or suggesting PixiJS code in this repository:
 - **Cleanup:** Call `app.destroy(true, { children: true })` to clean up. Remove event listeners. Destroy textures when no longer needed.
 - **Performance:** Prefer Sprite over Graphics for static visuals. Use ParticleContainer (with Particle class in v8) for large numbers of similar objects. Pool objects instead of creating/destroying frequently.
 
-**More detail:** The `skills/` directory in this repo contains full SKILL.md guidance (core with 20+ sub-skills, plus migration). For agents that support Agent Skills format, install this repo as a skill for the complete reference.
+**More detail:** `skills/pixijs/SKILL.md` in this repo is the full guidance: a pitfall list and a router to topic files in `skills/pixijs/references/` (including v7 migration). For agents that support Agent Skills format, install this repo as a skill for the complete reference.
