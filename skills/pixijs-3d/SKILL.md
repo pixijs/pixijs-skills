@@ -8,7 +8,7 @@ PixiJS 3D (`@pixi/3d`) is PixiJS's 3D extension. A `View3D` is an ordinary 2D di
 
 This file gives you the mental model, a complete starting app, and the conventions that catch people. The `references/` folder has one complete, runnable recipe per job; open the one you need.
 
-For a signature or option this skill doesn't cover, fetch the class's API page: `https://pixijs.download/3d/release/docs/<module>.<Class>.html.md` (scene.View3D, materials.Material3D, extras_camera.OrbitCamera, maths.Vector3). To find a class's module, or a guide on a topic, look it up in `https://pixijs.download/3d/release/docs/llms.txt`.
+For a signature or option this skill doesn't cover, fetch the class's API page: `https://3d.pixijs.download/release/docs/<module>.<Class>.html.md` (scene.View3D, materials.Material3D, extras_camera.OrbitCamera, maths.Vector3). To find a class's module, or a guide on a topic, look it up in `https://3d.pixijs.download/release/docs/llms.txt`.
 
 ## Quick Start
 
