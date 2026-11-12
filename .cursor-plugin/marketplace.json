@@ -7,7 +7,7 @@
     {
       "name": "pixijs-skills",
       "source": "./",
-      "description": "Official PixiJS skills covering Application, scene graph, sprites, graphics, text, filters, mesh, custom rendering, performance, and v7-to-v8 migration"
+      "description": "Official PixiJS skills covering Application, scene graph, sprites, graphics, text, filters, mesh, custom rendering, performance, and v7-to-v8 migration, plus PixiJS 3D (@pixi/3d) scenes, glTF models, materials, lights, cameras, and post-processing"
     }
   ]
 }

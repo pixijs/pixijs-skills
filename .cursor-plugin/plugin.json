@@ -1,7 +1,7 @@
 {
   "name": "pixijs-skills",
-  "version": "1.0.0",
-  "description": "Official PixiJS skills for Claude, Cursor, and other AI agents — Application setup, scene graph, sprites, graphics, text, filters, custom rendering, performance, and v7-to-v8 migration",
+  "version": "1.1.0",
+  "description": "Official PixiJS skills for Claude, Cursor, and other AI agents: PixiJS v8 (Application setup, scene graph, sprites, graphics, text, filters, custom rendering, performance, v7-to-v8 migration) and PixiJS 3D (scenes, glTF models, materials, lights, cameras, post-processing)",
   "author": {
     "name": "PixiJS",
     "url": "https://pixijs.com"
@@ -16,7 +16,10 @@
     "canvas",
     "game graphics",
     "sprite",
-    "scene graph"
+    "scene graph",
+    "3d rendering",
+    "pixijs 3d",
+    "gltf"
   ],
   "logo": "./assets/pixijs-logo.svg",
   "skills": ["skills"]
